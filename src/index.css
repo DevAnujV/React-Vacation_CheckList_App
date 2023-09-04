@@ -41,6 +41,15 @@ h1 {
   padding: 2.4rem 0;
 }
 
+.headPara {
+  text-align: center;
+  background-color: #f4a226;
+  position: absolute;
+  left: 1010px;
+  top: 130px;
+  font-size: large;
+}
+
 .add-form {
   background-color: #e5771f;
   padding: 2.8rem 0;
